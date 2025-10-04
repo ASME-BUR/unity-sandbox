@@ -9,6 +9,7 @@ The Sim file should contain
 These files should create a copy of the sim if copy and replaced into a new unity project in unity version **2022.3.48f1**.
 
 **Important Notes**
+
   The Unity project uses Unity Perception and some Unity Blender Images, so you may need to 
   - re-add the blender files to the project
   - re-add the images to the blender files to make it work correctly.
