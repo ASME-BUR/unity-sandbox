@@ -1,0 +1,4 @@
+﻿  convert.cpp
+C:\VSCProjects\jsonToYolo5\convert.cpp(8,9): error C2008: ';': unexpected in macro definition
+C:\VSCProjects\jsonToYolo5\convert.cpp(46,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\VSCProjects\jsonToYolo5\convert.cpp(47,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
