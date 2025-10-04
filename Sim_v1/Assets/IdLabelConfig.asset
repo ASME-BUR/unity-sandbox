@@ -10,22 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2f09f279848e42cea259348b13bce4c5, type: 3}
-  m_Name: ID_Label
+  m_Name: IdLabelConfig
   m_EditorClassIdentifier: 
   m_LabelEntries:
-  - label: RoboSubGate
+  - label: Gate
     id: 1
     hierarchyRelation: 0
-  - label: RoboSubPath
+  - label: Bin
     id: 2
     hierarchyRelation: 0
-  - label: RoboSubBuoy
+  - label: Path
     id: 3
     hierarchyRelation: 0
-  - label: RoboSubBin
+  - label: Tagging
     id: 4
     hierarchyRelation: 0
-  - label: RoboSubMap
+  - label: Slalom
     id: 5
     hierarchyRelation: 0
   autoAssignIds: 1
