@@ -4,7 +4,8 @@
 - Asset
 - Packages
 - UserSettings
-- ProjectSettings  
+- ProjectSettings
+
 These files should create a copy of the sim if copy and replaced into a new unity project in unity version **2022.3.48f1**.  
 **Important Notes**  
   The Unity project uses Unity Perception and some Unity Blender Images, so you may need to 
