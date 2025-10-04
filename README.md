@@ -1,6 +1,6 @@
-Contains the BUR Unity Sim for the 2024 - 2025 season
+# Contains the BUR Unity Sim for the 2024 - 2025 season
 
-The Sim file should contain
+### The Sim file should contain
 - Asset
 - Packages
 - UserSettings
@@ -15,10 +15,10 @@ These files should create a copy of the sim if copy and replaced into a new unit
   - re-add the images to the blender files to make it work correctly.
 
 
-The blender files folder contains all the blender files used in the project
+### The blender files folder contains all the blender files used in the project
 - it technically shouldn't need to be added because it should already be in the asset files of the unity project.
 
 
-The json_yoloV5 file contains
+### The json_yoloV5 file contains
 - JsonToYolo5: Which contains a python script that converts Json files to readable files for YoloV5
 - yoloV5 converter: Which contains folders which the JsonToYolo5 converter imports and exports its files from and into after conversion
