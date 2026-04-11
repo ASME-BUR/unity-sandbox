@@ -28,3 +28,6 @@ These files should create a copy of the sim if copy and replaced into a new unit
 ### The json_yoloV5 file contains
 - JsonToYolo5: Which contains a python script that converts Json files to readable files for YoloV5
 - yoloV5 converter: Which contains folders which the JsonToYolo5 converter imports and exports its files from and into after conversion
+
+### For the 2025- 2026 season
+- This is the link to the entire folder(Unity): https://drive.google.com/file/d/1lfuhR8JLhguvAqseDDkmn7-ILebcAdZx/view?usp=sharing
